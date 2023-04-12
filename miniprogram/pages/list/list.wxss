@@ -1,0 +1,18 @@
+/* pages/list/list.wxss */
+.container1{
+  height: 150px;
+}
+.item{
+  height: 100%;
+  line-height: 150px;
+  text-align: center;
+}
+swiper-item:nth-child(1){
+  background-color: lightskyblue;
+}
+swiper-item:nth-child(2){
+  background-color: lightgreen;
+}
+swiper-item:nth-child(3){
+  background-color: lightpink;
+}

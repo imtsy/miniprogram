@@ -1,0 +1,26 @@
+<!--pages/list/list.wxml-->
+<swiper class="container1" indicator-dots="true" indicator-color="white" circular>
+  <swiper-item>
+    <view class="item">
+      A
+    </view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">
+      B
+    </view>
+  </swiper-item>
+  <swiper-item>
+    <view class="item">
+      C
+    </view>
+  </swiper-item>
+</swiper>
+<!--按钮-->
+<button>普通按钮</button>
+<button type="primary">主色调按钮</button>
+<button type="warn">警告按钮</button>
+
+<button size="mini" plain>普通按钮</button>
+<button type="primary" size="mini" plain>主色调按钮</button>
+<button type="warn" size="mini" plain>警告按钮</button>
