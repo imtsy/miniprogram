@@ -1,38 +1,13 @@
-// pages/list/list.ts
+// pages/contact/contact.ts
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    count: 0,
-    msg: "Hello, ",
-    type: 1,
-    flag: true,
-    args: ['Apple', 'Pear', 'Oranage']
-  },
-  //加一按钮
-  add_one(){
-    console.log("ok"),
-    this.setData({
-      count: this.data.count + 1
-    })
-  },
-  //加二按钮
-  add_two(e:any){
-    console.log("ok"),
-    this.setData({
-      count: this.data.count + e.target.dataset.two
-    })
+
   },
 
-  //inputHandler
-  inputHandler(e:any){
-    //console.log(e.detail.value)
-    this.setData({
-      msg: e.detail.value
-    })
-  },
   /**
    * 生命周期函数--监听页面加载
    */

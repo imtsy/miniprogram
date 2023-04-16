@@ -1,0 +1,36 @@
+/* pages/home/home.wxss */
+swiper{
+  height: 350rpx;
+}
+swiper image{
+  width: 100%;
+  height: 100%;
+}
+.item{
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1rpx solid #efefef;
+  border-left: 1rpx solid #efefef;
+}
+.item-list{
+  width: 33.33%;
+  height: 200rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-right: 1rpx solid #efefef;
+  border-bottom: 1rpx solid #efefef;
+  box-sizing: border-box;
+}
+.item-list image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.item-list text{
+  font-size: 24rpx;
+  margin-top: 10rpx;
+}
+.img-box{
+  display: flex;
+}

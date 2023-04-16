@@ -1,0 +1,55 @@
+<!--pages/home/home.wxml-->
+<swiper indicator-dots circular>
+  <swiper-item>
+    <image src="../../images/life.jpg" mode="widthFix"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../images/life2.jpg" mode="widthFix"/>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../images/life4.jpeg" mode="widthFix"/>
+  </swiper-item>
+</swiper>
+<view class="item">
+  <view class="item-list">
+    <image src="../../images/商城.png" mode="widthFix"/>
+    <text>美食</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>洗浴足疗</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>婚庆</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>娱乐</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>找工作</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>辅导班</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>汽车保养</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>租房</text>
+  </view>
+  <view class="item-list">
+    <image src="../../images/house.png" mode="widthFix"/>
+    <text>装修</text>
+  </view>
+</view>
+
+<view class="img-box">
+  <image src="../../images/生活场景-煮饭.png" mode="widthFix"/>
+  <image src="../../images/生活场景-办公室.png" mode="widthFix"/>
+</view>
