@@ -31,6 +31,10 @@ swiper image{
   font-size: 24rpx;
   margin-top: 10rpx;
 }
+.item-list navigator{
+  font-size: 24rpx;
+  margin-top: 10rpx;
+}
 .img-box{
   display: flex;
 }

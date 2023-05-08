@@ -1,55 +1,55 @@
 <!--pages/home/home.wxml-->
 <swiper indicator-dots circular>
   <swiper-item>
-    <image src="../../images/life.jpg" mode="widthFix"></image>
+    <image src="https://cdnjson.com/images/2023/04/17/life.jpg" mode="widthFix"></image>
   </swiper-item>
   <swiper-item>
-    <image src="../../images/life2.jpg" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/life2.jpg" mode="widthFix"/>
   </swiper-item>
   <swiper-item>
-    <image src="../../images/life4.jpeg" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/life4.jpg" mode="widthFix"/>
   </swiper-item>
 </swiper>
 <view class="item">
   <view class="item-list">
-    <image src="../../images/商城.png" mode="widthFix"/>
-    <text>美食</text>
+    <image src="https://cdnjson.com/images/2023/04/17/2127155f77e8b6d8e.png" mode="widthFix"/>
+    <navigator url="/pages/message/message" open-type="switchTab">美食</navigator>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/20f68c9bfd2fb600c16dfca093c7f28c.png" mode="widthFix"/>
     <text>洗浴足疗</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/07e77fdffaf06ec9e023312d1ee38656.png" mode="widthFix"/>
     <text>婚庆</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/9851a6a7f6ccf43a34456cac125287d4.png" mode="widthFix"/>
     <text>娱乐</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/c183d162bef7d028ce7753a00f165193.png" mode="widthFix"/>
     <text>找工作</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/8523d0a9911cfe3b8477d244dcdeae5c.png" mode="widthFix"/>
     <text>辅导班</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/2b0b4e6f88c57974d.png" mode="widthFix"/>
     <text>汽车保养</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/2.png" mode="widthFix"/>
     <text>租房</text>
   </view>
   <view class="item-list">
-    <image src="../../images/house.png" mode="widthFix"/>
+    <image src="https://cdnjson.com/images/2023/04/17/f89579edf990b4e68ae1f536327382b7.png" mode="widthFix"/>
     <text>装修</text>
   </view>
 </view>
 
 <view class="img-box">
-  <image src="../../images/生活场景-煮饭.png" mode="widthFix"/>
-  <image src="../../images/生活场景-办公室.png" mode="widthFix"/>
+  <image src="https://cdnjson.com/images/2023/04/17/-f17ba7eae0084a59.png" mode="widthFix"/>
+  <image src="https://cdnjson.com/images/2023/04/17/-.png" mode="widthFix"/>
 </view>
