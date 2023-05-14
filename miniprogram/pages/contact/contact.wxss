@@ -1,1 +1,8 @@
 /* pages/contact/contact.wxss */
+.item-num{
+  border: 1rpx solid #efefef;
+  border-radius: 8rpx;
+  line-height: 200rpx;
+  margin: 15rpx;
+  background-color: blueviolet;
+}
