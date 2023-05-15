@@ -1,2 +1,17 @@
 <!--pages/message/message.wxml-->
-<text>pages/message/message.wxml</text>
+<view>
+  {{m1.toUpper(username)}}
+</view>
+<button bindtap="addone">+1</button>
+<view>
+  {{count}}
+</view>
+<wxs module="m1">
+  module.exports.toUpper = function(str) {
+    return str.toUpperCase()
+  }
+</wxs>
+<wxs src="../../pages/message/tools.wxs" module="m2"></wxs>
+<view>
+  {{m2.toLower(country)}}
+</view>

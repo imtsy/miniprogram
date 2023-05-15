@@ -11,10 +11,10 @@
   </swiper-item>
 </swiper>
 <view class="item">
-  <view class="item-list">
+  <navigator class="item-list" url="../shoplist/shoplist">
     <image src="https://cdnjson.com/images/2023/04/17/2127155f77e8b6d8e.png" mode="widthFix"/>
-    <navigator url="/pages/message/message" open-type="switchTab">美食</navigator>
-  </view>
+    <text>美食</text>
+  </navigator>
   <view class="item-list">
     <image src="https://cdnjson.com/images/2023/04/17/20f68c9bfd2fb600c16dfca093c7f28c.png" mode="widthFix"/>
     <text>洗浴足疗</text>

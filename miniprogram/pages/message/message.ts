@@ -5,14 +5,20 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    username: 'zs',
+    count: 0,
+    country: "CHINA"
   },
-
+  addone(){
+    this.setData({
+      count: this.data.count + 1
+    });
+  },
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad() {
-
+    this.addone()
   },
 
   /**
